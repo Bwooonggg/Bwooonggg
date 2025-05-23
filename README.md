@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Bwooonggg
-- 👀 I’m interested in UI/UX
-- 🌱 I’m currently learning Figma, JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in AI/ML
+- 🌱 I’m currently learning Python
+- 📫 Reach me @brianwongapple@gmail.com
 
 <!---
 Bwooonggg/Bwooonggg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
